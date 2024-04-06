@@ -1,0 +1,6 @@
+# Godot files
+.godot/
+
+# Godot addons
+addons/**
+
