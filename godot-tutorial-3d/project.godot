@@ -61,4 +61,4 @@ jump={
 
 [orchestrator]
 
-ui/nodes/highlight_selected_connections=true
+ui/nodes/highlight_selected_connections=false
