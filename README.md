@@ -23,7 +23,7 @@ The main reason why we do not distribute the addon in this repository with the p
 
 ## Have an example, want to contribute?
 
-If you have an example, and you'd like to contribute that to this repository, please follow these introductions:
+If you have an example, and you'd like to contribute that to this repository, please follow these instructions:
 
 1. Add your project in a subdirectory of this repository.
 For example, if you're contributing a 3D example of a first-person camera controller, a directory named `fps-camera-controller-3d`.
