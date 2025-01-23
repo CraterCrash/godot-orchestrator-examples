@@ -115,7 +115,6 @@ target_type = 24
 flags = 520
 method = {
 "name": &"set_text",
-"return": {},
 "args": [{
 "name": &"text",
 "type": 4
@@ -157,8 +156,7 @@ target_class_name = "CanvasItem"
 target_type = 24
 flags = 520
 method = {
-"name": &"show",
-"return": {}
+"name": &"show"
 }
 chain = false
 id = 3
@@ -200,7 +198,6 @@ target_type = 24
 flags = 520
 method = {
 "name": &"start",
-"return": {},
 "default_args": [-1],
 "args": [{
 "name": &"time_sec",
@@ -321,7 +318,6 @@ target_type = 24
 flags = 520
 method = {
 "name": &"set_text",
-"return": {},
 "args": [{
 "name": &"text",
 "type": 4
@@ -364,8 +360,7 @@ target_class_name = "CanvasItem"
 target_type = 24
 flags = 520
 method = {
-"name": &"show",
-"return": {}
+"name": &"show"
 }
 chain = false
 id = 12
@@ -537,8 +532,7 @@ target_class_name = "CanvasItem"
 target_type = 24
 flags = 520
 method = {
-"name": &"show",
-"return": {}
+"name": &"show"
 }
 chain = false
 id = 17
@@ -596,7 +590,6 @@ target_type = 24
 flags = 520
 method = {
 "name": &"set_text",
-"return": {},
 "args": [{
 "name": &"text",
 "type": 4
@@ -656,8 +649,7 @@ target_class_name = "CanvasItem"
 target_type = 24
 flags = 520
 method = {
-"name": &"hide",
-"return": {}
+"name": &"hide"
 }
 chain = false
 id = 23
@@ -723,8 +715,7 @@ target_class_name = "CanvasItem"
 target_type = 24
 flags = 520
 method = {
-"name": &"hide",
-"return": {}
+"name": &"hide"
 }
 chain = false
 id = 27
@@ -776,8 +767,7 @@ pin_data = Array[Dictionary]([{
 
 [obj type="OScriptSignal" id="OScriptSignal_77xbi"]
 method = {
-"name": &"start_game",
-"return": {}
+"name": &"start_game"
 }
 signal_name = &"start_game"
 

@@ -9,4 +9,3 @@ If you want to do that tutorial and you get stuck you can use this project as a 
 
 * Godot 4.3+
 * Orchestrator 2.1+
-
