@@ -47,7 +47,6 @@ id = 101
 guid = "17359FB2-0321-4ACB-A962-961CA1B1DC80"
 method = {
 "name": &"_on_body_entered",
-"return": {},
 "args": [{
 "name": &"body",
 "type": 24,
@@ -1713,7 +1712,6 @@ target_type = 24
 flags = 520
 method = {
 "name": &"set_animation",
-"return": {},
 "args": [{
 "name": &"name",
 "type": 21
@@ -1764,7 +1762,6 @@ target_type = 24
 flags = 520
 method = {
 "name": &"set_flip_v",
-"return": {},
 "args": [{
 "name": &"flip_v",
 "type": 1

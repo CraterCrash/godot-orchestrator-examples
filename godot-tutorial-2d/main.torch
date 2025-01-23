@@ -19,32 +19,28 @@ id = 1
 [obj type="OScriptFunction" id="OScriptFunction_ye5bx"]
 guid = "459FA510-B077-4438-84A4-6FB10ABB6DC8"
 method = {
-"name": &"_game_over",
-"return": {}
+"name": &"_game_over"
 }
 id = 41
 
 [obj type="OScriptFunction" id="OScriptFunction_t6xan"]
 guid = "7BB2BBD3-8C5F-4AED-A458-3D54E56B547A"
 method = {
-"name": &"_on_mob_timer_timeout",
-"return": {}
+"name": &"_on_mob_timer_timeout"
 }
 id = 42
 
 [obj type="OScriptFunction" id="OScriptFunction_w7nim"]
 guid = "7C6D4234-CF00-4ADE-A5AE-C4E31C97CD7A"
 method = {
-"name": &"_on_score_timer_timeout",
-"return": {}
+"name": &"_on_score_timer_timeout"
 }
 id = 43
 
 [obj type="OScriptFunction" id="OScriptFunction_gnhg8"]
 guid = "89D90E4F-749A-4CCF-9925-003625F1B5C2"
 method = {
-"name": &"_on_start_timer_timeout",
-"return": {}
+"name": &"_on_start_timer_timeout"
 }
 id = 44
 

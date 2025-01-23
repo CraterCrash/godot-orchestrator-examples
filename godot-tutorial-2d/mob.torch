@@ -11,8 +11,7 @@ id = 0
 [obj type="OScriptFunction" id="OScriptFunction_fc120"]
 guid = "43241914-D68B-4921-B95A-393FF60E0F1C"
 method = {
-"name": &"_on_visible_on_screen_notifier_2d_screen_exited",
-"return": {}
+"name": &"_on_visible_on_screen_notifier_2d_screen_exited"
 }
 id = 10
 

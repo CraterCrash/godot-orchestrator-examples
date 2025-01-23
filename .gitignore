@@ -1,5 +1,6 @@
 # Godot files
 .godot/
+*.import
 
 # Godot addons
 addons/
